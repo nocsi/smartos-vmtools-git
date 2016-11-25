@@ -1,6 +1,6 @@
 # Maintainer: Loc Nguyen <l@nocsi.com>
 
-pkgname=smartos-vmtools-git
+pkgname=smartos-vmtools
 _pkgname=smartos-vmtools
 _branch=master
 pkgver=20161123
