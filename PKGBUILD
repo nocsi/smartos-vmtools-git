@@ -14,7 +14,7 @@ makedepends=('git' 'perl')
 provides=('smartos-vmtools')
 
 md5sums=('SKIP')
-source=("smartos-vmtools::https://github.com/nocsigroup/smartos-vmtools.git")
+source=("${pkgname}::git+https://github.com/nocsigroup/smartos-vmtools.git")
 
 
 _gitroot="https://github.com/nocsigroup/smartos-vmtools.git"
